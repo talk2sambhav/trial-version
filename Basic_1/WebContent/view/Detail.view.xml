@@ -12,5 +12,6 @@
 			<Text text="{CreatedAt}" />
 			<Text text="{CreatedByBp}" />
 		</VBox>
+	<!-- 	i am making an comment in detail view  -->
 	</Page>
 </core:View>
