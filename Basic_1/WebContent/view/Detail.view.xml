@@ -3,7 +3,7 @@
 	xmlns="sap.m"
 	xmlns:core="sap.ui.core" >
 	<Page
-		title="~titled changed~"
+		title="~titled changed again~"
 		showNavButton="true"
 		navButtonPress="handleNavButtonPress" >
 		<VBox>
